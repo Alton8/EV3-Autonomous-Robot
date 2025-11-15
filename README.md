@@ -27,5 +27,3 @@ The robot detects different colored tape on the floor and performs programmed ma
 3. Place colored tape strips on the floor and position the robot at the starting point.  
 4. Run the program and watch it navigate autonomously!  
 
-## 📸 Demo (Optional)
-If you have photos or a short video, you can add it here:  
